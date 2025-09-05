@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Typescript-00758F?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
+
 
   
 </p>
@@ -55,7 +57,7 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-- ✉️ [Email](mailto:santivillagra199@gmail.com)  
+- ✉️ [Email](mailto:santivillagra.45@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/santiago-villagra-8a543b1ab/)
 - 📂 [Proyectos en GitHub](https://github.com/santivillagra19)  
 
