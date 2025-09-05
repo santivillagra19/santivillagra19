@@ -57,7 +57,7 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-- ✉️ [Email](mailto:santivillagra.45@gmail.com)  
+- ✉️ [Email](https://mail.google.com/mail/?view=cm&fs=1&to=santivillagra.45@gmail.com) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/santiago-villagra-8a543b1ab/)
 - 📂 [Proyectos en GitHub](https://github.com/santivillagra19)  
 
