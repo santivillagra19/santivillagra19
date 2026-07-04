@@ -40,9 +40,10 @@
 ---
 
 ## 📚 Actualmente aprendiendo
-- Desarrollo con **Spring Boot + Frontend JS**  
+- Desarrollo con **Spring Boot + React**
+- Arquitectura de **Microservicios**   
 - Buenas prácticas y **arquitectura de software**  
-- Mejora de **inglés técnico** (nivel B1)
+- Mejora de **inglés técnico** (nivel B1) conversacional
 
 ---
 
